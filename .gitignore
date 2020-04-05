@@ -1,8 +1,13 @@
-# Costum
+# Custom
+*.jpg
+*.jpeg
+*.pickle
 notes.txt
 .ideia\*
 .ideia
 test.py
+test_photos
+env
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
